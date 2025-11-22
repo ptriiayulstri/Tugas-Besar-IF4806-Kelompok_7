@@ -1,2 +1,2 @@
 # Tugas-Besar-IF4806-Kelompok_7
-Rancanglah multi-linked list yang memodelkan kurir, paket, dan hubungan di antara mereka. Seorang kurir dapat mengantarkan banyak paket, dan satu paket hanya dapat diantar oleh seorang kurir. Program ditujukan unutk mengelola beban kerja kurir.
+Rancanglah multi-linked list yang memodelkan mobil, sales, dan hubungan di antara mereka. Seorang sales dapat mempromosikan banyak mobil, dan satu mobil dapat dipromosikan oleh banyak sales. Program ditujukan untuk mengelola penjualan suatu showroom serta memantau performa sales.
